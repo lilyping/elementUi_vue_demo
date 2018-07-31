@@ -8,7 +8,7 @@ Vue Demo
 
 *命令行运行 npm run start；
 
-*浏览器默认 localhost:8080
+*浏览器默认 localhost:8880
 
 
 效果图
