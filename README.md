@@ -42,11 +42,10 @@ Vue Demo
 
 *../src/api 文件夹 引入了axios封装好的js文件
 
-**../src/components/index.vue
 
 根组件（首页）挂载组件
 
-**../src/home.vue
+**../src/components/home.vue
 
 根组件
 
