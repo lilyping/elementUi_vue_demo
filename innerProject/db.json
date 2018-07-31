@@ -1,0 +1,111 @@
+{
+  "all":[
+    {
+      "menus": [
+        {
+          "title": "首页",
+          "path": "/home/workPlace",
+          "icon": "el-icon-menu"
+        },
+        {
+          "title": "菜单",
+          "icon": "el-icon-star-off",
+          "chirdMenu": [
+            {
+              "btn": "子菜单1",
+              "path": "/home/clientList"
+            }
+          ]
+        },
+        {
+          "title": "菜单2",
+          "icon": "el-icon-star-off",
+          "chirdMenu": [
+            {
+              "btn": "子菜单2",
+              "path": "/home/readyList"
+            }
+          ]
+        },
+        {
+          "title": "动态",
+          "path": "/home/dealRoute",
+          "icon": "el-icon-menu"
+        }
+      ]
+    },
+    {
+      "news":[
+        {
+          "id":"80",
+          "article":"新闻条目1新闻条目1新闻条目1新闻条目1",
+          "url":"http://twitter.com"
+        },
+        {
+          "id":"81",
+          "article":"新闻条目2新闻条目2新闻条目2新闻条目2",
+          "url":"http://twitter.com"
+        },
+        {
+          "id":"82",
+          "article":"新闻条3新闻条3新闻条3",
+          "url":"http://twitter.com"
+        },
+        {
+          "id":"83",
+          "article":"新闻条4广告发布",
+          "url":"http://twitter.com"
+        }
+      ]
+    },
+    {
+      "Menus":[
+        {
+          "id":1,
+          "rpTxt":"01",
+          "rpTxt2":"001"
+        },
+        {
+          "id":2,
+          "rpTxt":"02",
+          "rpTxt2":"002"
+        },
+        {
+          "id":3,
+          "rpTxt":"03",
+          "rpTxt2":"003"
+        },
+        {
+          "id":4,
+          "rpTxt":"04",
+          "rpTxt2":"004"
+        }
+      ]
+    },
+    {
+      "forBtn":[
+        {
+          "text":"11",
+          "path":"map",
+          "active":false
+        },
+        {
+          "text":"22",
+          "path":"car",
+          "active":false
+        },
+        {
+          "text":"33",
+          "path":"round",
+          "active":false
+        },
+        {
+          "text":"44",
+          "path":"mountain",
+          "active":false
+        }
+      ]
+    }
+  ]
+
+}
