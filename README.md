@@ -54,3 +54,6 @@ Vue Demo
 入口文件
 
 **../src/main.js
+
+本人简书文章：
+https://www.jianshu.com/p/cf2444b1232d
