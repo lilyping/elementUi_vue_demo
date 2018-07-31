@@ -1,9 +1,15 @@
 # elementUi_vue_demo
+
 Vue Demo
-安装nodejs、npm；
-命令行运行 npm install；
-命令行运行 npm run start；
-浏览器默认 localhost:8080
+
+*安装nodejs、npm；
+
+*命令行运行 npm install；
+
+*命令行运行 npm run start；
+
+*浏览器默认 localhost:8080
+
 
 效果图
 ![demo](https://github.com/lilyping/elementUi_vue_demo/blob/master/eui_vue27.png)
